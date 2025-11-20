@@ -1,0 +1,9 @@
+psycopg2-binary
+sqlalchemy
+phik
+matplotlib
+numpy
+pandas
+python-dotenv
+ipython
+gdown
